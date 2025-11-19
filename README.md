@@ -98,13 +98,21 @@ Program automatically creates staff.txt if it does not exist
 All staff records are saved to and loaded from this file in binary format
 
 ## 📸 Screenshots
+
 Main Menu
+
 Add Staff
+
 Display Staff
+
 Search Staff
+
 Update Staff
+
 Delete Staff
+
 Exit
 
-📝 Author
+### 📝 Author
+
 Meha.E
