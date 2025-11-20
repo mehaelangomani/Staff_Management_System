@@ -100,17 +100,34 @@ All staff records are saved to and loaded from this file in binary format
 ## 📸 Screenshots
 
 Add Staff
+
+
 <img width="574" height="440" alt="image" src="https://github.com/user-attachments/assets/98af9c7f-925e-450b-a0c0-7d3ea6b4794b" />
 
 Display Staff
 
+
+<img width="942" height="368" alt="image" src="https://github.com/user-attachments/assets/950b2a10-287c-4255-9deb-955c03fe8a6c" />
+
 Search Staff
+
+
+<img width="640" height="486" alt="image" src="https://github.com/user-attachments/assets/f4205733-ff6a-454d-9908-a76cf8e39b92" />
 
 Update Staff
 
+
+<img width="672" height="430" alt="image" src="https://github.com/user-attachments/assets/1a3c742d-8ab8-4883-80d1-146b584a99e3" />
+
 Delete Staff
 
+
+<img width="640" height="308" alt="image" src="https://github.com/user-attachments/assets/489c871e-ef1e-4572-a0fd-d289f695617b" />
+
 Exit
+
+
+<img width="614" height="272" alt="image" src="https://github.com/user-attachments/assets/b02aecc7-2a39-4a35-b091-a6384e875fb9" />
 
 ### 📝 Author
 
