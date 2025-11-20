@@ -99,9 +99,8 @@ All staff records are saved to and loaded from this file in binary format
 
 ## 📸 Screenshots
 
-Main Menu
-
 Add Staff
+<img width="574" height="440" alt="image" src="https://github.com/user-attachments/assets/98af9c7f-925e-450b-a0c0-7d3ea6b4794b" />
 
 Display Staff
 
